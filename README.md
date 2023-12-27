@@ -1,5 +1,6 @@
 
 This program is a grapher of the percent fat and concentrations of compounds found in FAME analysis for all samples depending on which department they were recieved from, in this case Fermentation or Non-Fermentation.
+
 It was made to minimize the time spent manually creating a graph for each subset of samples which took more time as sample size increased in size and complexity of batch composition.
 In using this grapher program, one should be able to recieve a visual representation of the processed data from Chromeleon and make decisions on whether to return to processing or note trends in a quicker turnaround time.
 
